@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GobangApplication<gobang>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.yz.gobang.GobangApplication",
+            "projectName": "gobang",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
