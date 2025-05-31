@@ -1,4 +1,4 @@
-package com.gobang;
+package com.gobang.gobang;
 
 import java.util.*;
 
@@ -43,7 +43,6 @@ public class AIPlayer implements Player {
     
     @Override
     public Move getMove(Board board) {
-        System.out.println("AI正在思考...");
         
         Stone[][] grid = board.getGrid();
         int size = board.getSize();

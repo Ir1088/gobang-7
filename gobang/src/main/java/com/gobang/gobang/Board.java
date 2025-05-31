@@ -1,4 +1,4 @@
-package com.gobang;
+package com.gobang.gobang;
 
 import java.util.ArrayList;
 import java.util.List;

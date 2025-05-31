@@ -1,4 +1,4 @@
-package com.gobang;
+package com.gobang.gobang;
 
 /**
  * 移动类 - 表示棋盘上的一个位置

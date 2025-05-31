@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GobangApplication",
+            "request": "launch",
+            "mainClass": "GobangApplication",
+            "projectName": "gobang"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-GobangApplication<gobang>",
             "request": "launch",
             "cwd": "${workspaceFolder}",

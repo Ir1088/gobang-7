@@ -1,4 +1,4 @@
-package com.gobang;
+package com.gobang.gobang;
 
 /**
  * 棋子枚举
